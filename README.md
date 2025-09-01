@@ -8,6 +8,10 @@ The goal is to practice **problem-solving, algorithms, and data structures** in 
 ## 📂 Repository Structure
 Each solution is stored in a separate file, named by problem title.
 
+/easy
+two-sums.ts
+contains-duplicate.ts
+
 ## 🛠️ How to Run
 1. Clone the repository  
    ```bash
@@ -16,4 +20,12 @@ Each solution is stored in a separate file, named by problem title.
 2. Install dependencies
    ```bash
    npm install
+
+---
+
+## 🚀 Progress Tracker
+
+### Week 1 (Foundations)
+- Two Sums - https://leetcode.com/problems/two-sum/description/
+- Contains Duplicate - https://leetcode.com/problems/contains-duplicate/description/
    
