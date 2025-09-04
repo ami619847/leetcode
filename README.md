@@ -11,6 +11,8 @@ Each solution is stored in a separate file, named by problem title.
 /easy
 two-sums.ts
 contains-duplicate.ts
+best-time-to-buy-and-sell-stock.ts
+valid-parentheses.ts
 
 ## 🛠️ How to Run
 1. Clone the repository  
@@ -28,4 +30,7 @@ contains-duplicate.ts
 ### Week 1 (Foundations)
 - Two Sums - https://leetcode.com/problems/two-sum/description/
 - Contains Duplicate - https://leetcode.com/problems/contains-duplicate/description/
+
+- Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+- Valid Parentheses - https://leetcode.com/problems/valid-parentheses/description/
    
