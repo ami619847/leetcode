@@ -13,6 +13,10 @@ two-sums.ts
 contains-duplicate.ts
 best-time-to-buy-and-sell-stock.ts
 valid-parentheses.ts
+move-zeroes.ts
+
+/medium
+maximum-subarray
 
 ## 🛠️ How to Run
 1. Clone the repository  
@@ -33,4 +37,7 @@ valid-parentheses.ts
 
 - Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 - Valid Parentheses - https://leetcode.com/problems/valid-parentheses/description/
+
+- Move Zeroes - https://leetcode.com/problems/move-zeroes/description/
+- Maximum Subarray - https://leetcode.com/problems/maximum-subarray/description/
    
