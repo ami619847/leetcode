@@ -14,6 +14,8 @@ contains-duplicate.ts
 best-time-to-buy-and-sell-stock.ts
 valid-parentheses.ts
 move-zeroes.ts
+valid-palindrome.ts
+valid-anagram.ts
 
 /medium
 maximum-subarray
@@ -40,4 +42,10 @@ maximum-subarray
 
 - Move Zeroes - https://leetcode.com/problems/move-zeroes/description/
 - Maximum Subarray - https://leetcode.com/problems/maximum-subarray/description/
+
+- Valid Palindrom - https://leetcode.com/problems/valid-palindrome/description/
+- valid Anagram - https://leetcode.com/problems/valid-anagram/description/
+
+### Week 2
+-
    
