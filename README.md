@@ -18,7 +18,9 @@ valid-palindrome.ts
 valid-anagram.ts
 
 /medium
-maximum-subarray
+maximum-subarray.ts
+two-sums-ii.ts
+group-anagrams.ts
 
 ## 🛠️ How to Run
 1. Clone the repository  
@@ -47,5 +49,5 @@ maximum-subarray
 - valid Anagram - https://leetcode.com/problems/valid-anagram/description/
 
 ### Week 2
--
-   
+- Two Sums II  - Input Array Is Sorted - https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
+- Group Anagrams - https://leetcode.com/problems/group-anagrams/description/
