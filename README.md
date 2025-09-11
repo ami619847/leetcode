@@ -18,6 +18,8 @@ valid-palindrome.ts
 valid-anagram.ts
 climbing-stairs.ts
 fibonacci-number.ts
+binary-search.ts
+search-insert-position.ts
 
 /medium
 maximum-subarray.ts
@@ -56,3 +58,6 @@ group-anagrams.ts
 
 - Climbing Stairs - https://leetcode.com/problems/climbing-stairs/description/
 - Fibonacci Number - https://leetcode.com/problems/fibonacci-number/
+
+- Binary Search - https://leetcode.com/problems/binary-search/description/
+- Search Insert Position - https://leetcode.com/problems/search-insert-position/description/
