@@ -16,6 +16,8 @@ valid-parentheses.ts
 move-zeroes.ts
 valid-palindrome.ts
 valid-anagram.ts
+climbing-stairs.ts
+fibonacci-number.ts
 
 /medium
 maximum-subarray.ts
@@ -51,3 +53,6 @@ group-anagrams.ts
 ### Week 2
 - Two Sums II  - Input Array Is Sorted - https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 - Group Anagrams - https://leetcode.com/problems/group-anagrams/description/
+
+- Climbing Stairs - https://leetcode.com/problems/climbing-stairs/description/
+- Fibonacci Number - https://leetcode.com/problems/fibonacci-number/
