@@ -25,6 +25,8 @@ search-insert-position.ts
 maximum-subarray.ts
 two-sums-ii.ts
 group-anagrams.ts
+find-first-and-last-position-of-element-in-sorted-array.ts
+search-in-rotated-sorted-array.ts
 
 ## 🛠️ How to Run
 1. Clone the repository  
@@ -61,3 +63,6 @@ group-anagrams.ts
 
 - Binary Search - https://leetcode.com/problems/binary-search/description/
 - Search Insert Position - https://leetcode.com/problems/search-insert-position/description/
+
+- Find First and Last Position of Element in Sorted Array - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
+- Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/description
