@@ -20,6 +20,7 @@ climbing-stairs.ts
 fibonacci-number.ts
 binary-search.ts
 search-insert-position.ts
+implement-queue-using-stacks.ts
 
 /medium
 maximum-subarray.ts
@@ -29,6 +30,7 @@ find-first-and-last-position-of-element-in-sorted-array.ts
 search-in-rotated-sorted-array.ts
 min-stack.ts
 daily-temperatures.ts
+rotting-oranges.ts
 
 ## 🛠️ How to Run
 1. Clone the repository  
@@ -81,3 +83,7 @@ daily-temperatures.ts
 #### Stacks (monotonic stack)
 - Min Stack - https://leetcode.com/problems/min-stack/description/
 - Daily Temperatures - https://leetcode.com/problems/daily-temperatures/description/
+
+#### 
+- Implement Queue Using Stacks - https://leetcode.com/problems/implement-queue-using-stacks/description/
+- Rotting Oranges - https://leetcode.com/problems/rotting-oranges/description/
