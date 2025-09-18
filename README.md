@@ -21,6 +21,8 @@ fibonacci-number.ts
 binary-search.ts
 search-insert-position.ts
 implement-queue-using-stacks.ts
+middle-of-the-linked-list.ts
+linked-list-cycle.ts
 
 /medium
 maximum-subarray.ts
@@ -84,6 +86,10 @@ rotting-oranges.ts
 - Min Stack - https://leetcode.com/problems/min-stack/description/
 - Daily Temperatures - https://leetcode.com/problems/daily-temperatures/description/
 
-#### 
+#### Queues (FIFO, BFS basics)
 - Implement Queue Using Stacks - https://leetcode.com/problems/implement-queue-using-stacks/description/
 - Rotting Oranges - https://leetcode.com/problems/rotting-oranges/description/
+
+#### Linked Lists (fast/slow pointers)
+- Middle of the Linked List - https://leetcode.com/problems/middle-of-the-linked-list/description/
+- Linked List Cycle - https://leetcode.com/problems/linked-list-cycle/description/
