@@ -25,6 +25,8 @@ middle-of-the-linked-list.ts
 linked-list-cycle.ts
 reverse-linked-list.ts
 merge-two-sorted-lists.ts
+maximum-depth-of-binary-tree.ts
+same-tree.ts
 
 /medium
 maximum-subarray.ts
@@ -99,3 +101,8 @@ rotting-oranges.ts
 #### Linked List operations
 - Reverse Linked List - https://leetcode.com/problems/reverse-linked-list/description/
 - Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/description/
+
+### Week 4
+#### Trees (DFS recursion)
+- Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
+- Same Tree - https://leetcode.com/problems/same-tree/description/
