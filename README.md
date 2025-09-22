@@ -23,6 +23,8 @@ search-insert-position.ts
 implement-queue-using-stacks.ts
 middle-of-the-linked-list.ts
 linked-list-cycle.ts
+reverse-linked-list.ts
+merge-two-sorted-lists.ts
 
 /medium
 maximum-subarray.ts
@@ -88,8 +90,12 @@ rotting-oranges.ts
 
 #### Queues (FIFO, BFS basics)
 - Implement Queue Using Stacks - https://leetcode.com/problems/implement-queue-using-stacks/description/
-- Rotting Oranges - https://leetcode.com/problems/rotting-oranges/description/
+- Rotting Oranges - https://leetcode.com/problems/rotting-oranges/description/ 
 
 #### Linked Lists (fast/slow pointers)
 - Middle of the Linked List - https://leetcode.com/problems/middle-of-the-linked-list/description/
 - Linked List Cycle - https://leetcode.com/problems/linked-list-cycle/description/
+
+#### Linked List operations
+- Reverse Linked List - https://leetcode.com/problems/reverse-linked-list/description/
+- Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/description/
