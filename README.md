@@ -27,6 +27,9 @@ reverse-linked-list.ts
 merge-two-sorted-lists.ts
 maximum-depth-of-binary-tree.ts
 same-tree.ts
+invert-binary-tree.ts
+symmetric-tree.ts
+average-of-levels-in-binary-tree.ts
 
 /medium
 maximum-subarray.ts
@@ -37,6 +40,8 @@ search-in-rotated-sorted-array.ts
 min-stack.ts
 daily-temperatures.ts
 rotting-oranges.ts
+binary-tree-level-order-traversal.ts
+binary-tree-right-side-view.ts
 
 ## 🛠️ How to Run
 1. Clone the repository  
@@ -106,3 +111,10 @@ rotting-oranges.ts
 #### Trees (DFS recursion)
 - Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
 - Same Tree - https://leetcode.com/problems/same-tree/description/
+- Invert Binary Tree - https://leetcode.com/problems/invert-binary-tree/description/
+- Symmetric Tree - https://leetcode.com/problems/symmetric-tree/description/
+
+#### Trees (BFS level order)
+- Average of Levels in Binary Tree - https://leetcode.com/problems/average-of-levels-in-binary-tree/description
+- Binary Tree Level Order Traversal - https://leetcode.com/problems/binary-tree-level-order-traversal/description/
+- Binary Tree Right Side View - https://leetcode.com/problems/binary-tree-right-side-view/description
