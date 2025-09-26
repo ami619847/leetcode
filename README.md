@@ -30,6 +30,8 @@ same-tree.ts
 invert-binary-tree.ts
 symmetric-tree.ts
 average-of-levels-in-binary-tree.ts
+search-in-a-binary-search-tree.ts
+minimum-absolute-difference-in-bst.ts
 
 /medium
 maximum-subarray.ts
@@ -42,6 +44,7 @@ daily-temperatures.ts
 rotting-oranges.ts
 binary-tree-level-order-traversal.ts
 binary-tree-right-side-view.ts
+validate-binary-search-tree.ts
 
 ## 🛠️ How to Run
 1. Clone the repository  
@@ -118,3 +121,8 @@ binary-tree-right-side-view.ts
 - Average of Levels in Binary Tree - https://leetcode.com/problems/average-of-levels-in-binary-tree/description
 - Binary Tree Level Order Traversal - https://leetcode.com/problems/binary-tree-level-order-traversal/description/
 - Binary Tree Right Side View - https://leetcode.com/problems/binary-tree-right-side-view/description
+
+#### BSTs (search & insert) 
+- Search in a Binary Search Tree - https://leetcode.com/problems/search-in-a-binary-search-tree/description/
+- Validate BST - https://leetcode.com/problems/validate-binary-search-tree/description/
+- Minimum Absolute Difference in bst/ - https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/
