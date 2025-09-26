@@ -32,6 +32,7 @@ symmetric-tree.ts
 average-of-levels-in-binary-tree.ts
 search-in-a-binary-search-tree.ts
 minimum-absolute-difference-in-bst.ts
+count-complete-tree-nodes.ts
 
 /medium
 maximum-subarray.ts
@@ -130,3 +131,4 @@ lowest-common-ancestor-of-a-binary-search-tree.ts
 
 #### BSTs (lowest common ancestor) 
 - Lowest Common Ancestor of BST - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/
+- Count Complete Tree Nodes - https://leetcode.com/problems/count-complete-tree-nodes/description

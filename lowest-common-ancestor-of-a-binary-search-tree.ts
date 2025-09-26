@@ -13,6 +13,7 @@
  */
 
 function lowestCommonAncestor(root: TreeNode | null, p: TreeNode | null, q: TreeNode | null): TreeNode | null {
+    //Solution 1 - DFS
     function dfs(root: TreeNode | null, p: TreeNode | null, q: TreeNode | null) {
         if([root, p, q].includes(null)) return root;
         
@@ -30,5 +31,19 @@ function lowestCommonAncestor(root: TreeNode | null, p: TreeNode | null, q: Tree
         return root;
     };
 
-    return dfs(root, p, q);   
+    return dfs(root, p, q);
+    
+    //Solution 2 - more concise
+    if (root === null) return null;
+
+    // If both p and q are smaller than root, go to left subtree
+    if (root.val > p.val && root.val > q.val)
+        return lowestCommonAncestor(root.left, p, q);
+
+    // If both p and q are greater than root, go to right subtree
+    if (root.val < p.val && root.val < q.val)
+        return lowestCommonAncestor(root.right, p, q);
+
+    // If nodes p and q are on the opposite sides, root is the LCA
+    return root;
 };
