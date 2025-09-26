@@ -45,6 +45,7 @@ rotting-oranges.ts
 binary-tree-level-order-traversal.ts
 binary-tree-right-side-view.ts
 validate-binary-search-tree.ts
+lowest-common-ancestor-of-a-binary-search-tree.ts
 
 ## 🛠️ How to Run
 1. Clone the repository  
@@ -126,3 +127,6 @@ validate-binary-search-tree.ts
 - Search in a Binary Search Tree - https://leetcode.com/problems/search-in-a-binary-search-tree/description/
 - Validate BST - https://leetcode.com/problems/validate-binary-search-tree/description/
 - Minimum Absolute Difference in bst/ - https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/
+
+#### BSTs (lowest common ancestor) 
+- Lowest Common Ancestor of BST - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/
