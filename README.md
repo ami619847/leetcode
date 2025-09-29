@@ -47,6 +47,7 @@ binary-tree-level-order-traversal.ts
 binary-tree-right-side-view.ts
 validate-binary-search-tree.ts
 lowest-common-ancestor-of-a-binary-search-tree.ts
+number-of-islands.ts
 
 ## 🛠️ How to Run
 1. Clone the repository  
@@ -131,4 +132,8 @@ lowest-common-ancestor-of-a-binary-search-tree.ts
 
 #### BSTs (lowest common ancestor) 
 - Lowest Common Ancestor of BST - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/
-- Count Complete Tree Nodes - https://leetcode.com/problems/count-complete-tree-nodes/description
+- Count Complete Tree Nodes - https://leetcode.com/problems/count-complete-tree-nodes/description/
+
+### Week 5
+#### 
+- Number of Islands - https://leetcode.com/problems/number-of-islands/description/
