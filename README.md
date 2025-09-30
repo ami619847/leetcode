@@ -48,6 +48,11 @@ binary-tree-right-side-view.ts
 validate-binary-search-tree.ts
 lowest-common-ancestor-of-a-binary-search-tree.ts
 number-of-islands.ts
+clone-graph.ts
+graph-valid-tree.js
+
+/hard
+word-ladder.js
 
 ## 🛠️ How to Run
 1. Clone the repository  
@@ -62,7 +67,7 @@ number-of-islands.ts
 
 ## 🚀 Progress Tracker
 
-### Week 1 (Foundations)
+### Week 1 - Core CS & Complexity
 #### Big O basics (O(1), O(n), O(n²), O(log n))
 - Two Sums - https://leetcode.com/problems/two-sum/description/
 - Contains Duplicate - https://leetcode.com/problems/contains-duplicate/description/
@@ -79,7 +84,7 @@ number-of-islands.ts
 - Valid Palindrom - https://leetcode.com/problems/valid-palindrome/description/
 - valid Anagram - https://leetcode.com/problems/valid-anagram/description/
 
-### Week 2
+### Week 2 - Core CS & Complexity
 #### HashMaps/Sets (lookup, frequency)
 - Two Sums II  - Input Array Is Sorted - https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 - Group Anagrams - https://leetcode.com/problems/group-anagrams/description/
@@ -96,7 +101,7 @@ number-of-islands.ts
 - Find First and Last Position of Element in Sorted Array - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
 - Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/description
 
-### Week 3
+### Week 3 - Data Structures Deep Dive
 #### Stacks (monotonic stack)
 - Min Stack - https://leetcode.com/problems/min-stack/description/
 - Daily Temperatures - https://leetcode.com/problems/daily-temperatures/description/
@@ -113,7 +118,7 @@ number-of-islands.ts
 - Reverse Linked List - https://leetcode.com/problems/reverse-linked-list/description/
 - Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/description/
 
-### Week 4
+### Week 4 - Data Structures Deep Dive
 #### Trees (DFS recursion)
 - Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
 - Same Tree - https://leetcode.com/problems/same-tree/description/
@@ -134,6 +139,11 @@ number-of-islands.ts
 - Lowest Common Ancestor of BST - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/
 - Count Complete Tree Nodes - https://leetcode.com/problems/count-complete-tree-nodes/description/
 
-### Week 5
-#### 
+### Week 5 - Graphs & Recursion
+#### Graphs intro (adjacency list, DFS)
 - Number of Islands - https://leetcode.com/problems/number-of-islands/description/
+
+#### Graph BFS
+- Clone Graph - https://leetcode.com/problems/clone-graph/description/
+- Graph Valid Tree - https://neetcode.io/problems/valid-tree 
+- Word Ladder - https://leetcode.com/problems/word-ladder/description/
