@@ -50,6 +50,7 @@ lowest-common-ancestor-of-a-binary-search-tree.ts
 number-of-islands.ts
 clone-graph.ts
 graph-valid-tree.js
+course-schedule.ts
 
 /hard
 word-ladder.js
@@ -147,3 +148,6 @@ word-ladder.js
 - Clone Graph - https://leetcode.com/problems/clone-graph/description/
 - Graph Valid Tree - https://neetcode.io/problems/valid-tree 
 - Word Ladder - https://leetcode.com/problems/word-ladder/description/
+
+#### Graph cycle detection
+- Course Schedule - https://leetcode.com/problems/course-schedule/description/
