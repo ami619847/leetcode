@@ -33,6 +33,7 @@ average-of-levels-in-binary-tree.ts
 search-in-a-binary-search-tree.ts
 minimum-absolute-difference-in-bst.ts
 count-complete-tree-nodes.ts
+sum-of-all-subset-xor-totals.js
 
 /medium
 maximum-subarray.ts
@@ -51,6 +52,8 @@ number-of-islands.ts
 clone-graph.ts
 graph-valid-tree.js
 course-schedule.ts
+minimum-knight-moves.ts
+subsets.ts
 
 /hard
 word-ladder.js
@@ -151,3 +154,11 @@ word-ladder.js
 
 #### Graph cycle detection
 - Course Schedule - https://leetcode.com/problems/course-schedule/description/
+
+####  Graph shortest path (BFS) 
+- Minimum Knight Moves - https://www.geeksforgeeks.org/problems/steps-by-knight5927/1/
+
+### Week 6 
+#### Recursion + Backtracking basics
+- Sum of All Subset XOR Totals - https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/
+- Subsets - https://leetcode.com/problems/subsets/description/
