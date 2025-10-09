@@ -54,6 +54,8 @@ graph-valid-tree.js
 course-schedule.ts
 minimum-knight-moves.ts
 subsets.ts
+permutations.ts
+combination-sum.ts
 
 /hard
 word-ladder.js
@@ -162,3 +164,7 @@ word-ladder.js
 #### Recursion + Backtracking basics
 - Sum of All Subset XOR Totals - https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/
 - Subsets - https://leetcode.com/problems/subsets/description/
+
+#### Backtracking harder
+- Permutations - https://leetcode.com/problems/permutations/description/
+- Combination Sum - https://leetcode.com/problems/combination-sum/description/ 
