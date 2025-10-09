@@ -1,7 +1,7 @@
 //time complexity: O(n*n!)
 //space complexity: O(n) for the recursion stack and current permutation array
 
-function permute(nums: number[]): number[][] {
+function permute(nums) {
     let res = [];
 
     function backtrack(i) { //i - start

@@ -54,11 +54,12 @@ graph-valid-tree.js
 course-schedule.ts
 minimum-knight-moves.ts
 subsets.ts
-permutations.ts
-combination-sum.ts
+permutations.js
+combination-sum.js
 
 /hard
 word-ladder.js
+sudoku-solver.ts
 
 ## 🛠️ How to Run
 1. Clone the repository  
@@ -167,4 +168,7 @@ word-ladder.js
 
 #### Backtracking harder
 - Permutations - https://leetcode.com/problems/permutations/description/
-- Combination Sum - https://leetcode.com/problems/combination-sum/description/ 
+- Combination Sum - https://leetcode.com/problems/combination-sum/description/
+
+#### Sudoku / N-Queens
+- Sudoku Solver - https://leetcode.com/problems/sudoku-solver/description/

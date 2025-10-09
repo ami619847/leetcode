@@ -1,7 +1,7 @@
 //time complexity: O(2^(t/m)) where t is target and m is the minimum value in candidates
 //space complexity: O(t/m) for the recursion stack and combination array
 
-function combinationSum(candidates: number[], target: number): number[][] {
+function combinationSum(candidates, target) {
     let res = []
 
     function makeCombination (i, comb, total) {
