@@ -56,6 +56,8 @@ minimum-knight-moves.ts
 subsets.ts
 permutations.js
 combination-sum.js
+combinations.ts
+combination-sum.ts
 
 /hard
 word-ladder.js
@@ -172,3 +174,7 @@ sudoku-solver.ts
 
 #### Sudoku / N-Queens
 - Sudoku Solver - https://leetcode.com/problems/sudoku-solver/description/
+
+#### Recursion/backtracking review
+- Combinations - https://leetcode.com/problems/combinations/description/
+- Combination Sum III - https://leetcode.com/problems/combination-sum-iii/description/
