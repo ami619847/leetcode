@@ -34,6 +34,7 @@ search-in-a-binary-search-tree.ts
 minimum-absolute-difference-in-bst.ts
 count-complete-tree-nodes.ts
 sum-of-all-subset-xor-totals.js
+min-cost-climbing-stairs.ts
 
 /medium
 maximum-subarray.ts
@@ -58,6 +59,9 @@ permutations.js
 combination-sum.js
 combinations.ts
 combination-sum.ts
+best-time-to-buy-and-sell-stock-with-cooldown.ts
+decode-ways.ts
+climbing-stairs-ii.ts
 
 /hard
 word-ladder.js
@@ -178,3 +182,10 @@ sudoku-solver.ts
 #### Recursion/backtracking review
 - Combinations - https://leetcode.com/problems/combinations/description/
 - Combination Sum III - https://leetcode.com/problems/combination-sum-iii/description/
+
+### Week 7
+#### DP intro (memoization vs tabulation)
+- Min Cost Climbing Stairs - https://leetcode.com/problems/min-cost-climbing-stairs/description/
+- Best Time to Buy and Sell Stock with Cooldown - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/
+- Decode Ways - https://leetcode.com/problems/decode-ways/description/
+- Climbing Stairs II - https://leetcode.com/problems/climbing-stairs-ii/description/
