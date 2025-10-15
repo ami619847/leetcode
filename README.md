@@ -62,6 +62,9 @@ combination-sum.ts
 best-time-to-buy-and-sell-stock-with-cooldown.ts
 decode-ways.ts
 climbing-stairs-ii.ts
+house-robber.ts
+coin-change.ts
+word-break.ts
 
 /hard
 word-ladder.js
@@ -189,3 +192,8 @@ sudoku-solver.ts
 - Best Time to Buy and Sell Stock with Cooldown - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/
 - Decode Ways - https://leetcode.com/problems/decode-ways/description/
 - Climbing Stairs II - https://leetcode.com/problems/climbing-stairs-ii/description/
+
+#### DP arrays
+- House Robber - https://leetcode.com/problems/house-robber/description/
+- Coin Change - https://leetcode.com/problems/coin-change/description/
+- Word Break - https://leetcode.com/problems/word-break/description/
