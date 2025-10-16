@@ -65,6 +65,8 @@ climbing-stairs-ii.ts
 house-robber.ts
 coin-change.ts
 word-break.ts
+longest-common-subsequence.ts
+maximum-length-of-repeated-subarray.ts
 
 /hard
 word-ladder.js
@@ -197,3 +199,7 @@ sudoku-solver.ts
 - House Robber - https://leetcode.com/problems/house-robber/description/
 - Coin Change - https://leetcode.com/problems/coin-change/description/
 - Word Break - https://leetcode.com/problems/word-break/description/
+
+#### DP on strings
+- Longest Common Subsequence - https://leetcode.com/problems/longest-common-subsequence/description/
+- Maximum Length of Repeated Subarray - https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/
