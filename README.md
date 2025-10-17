@@ -67,6 +67,9 @@ coin-change.ts
 word-break.ts
 longest-common-subsequence.ts
 maximum-length-of-repeated-subarray.ts
+unique-paths.ts
+unique-paths-ii.ts
+minimum-path-sum.ts
 
 /hard
 word-ladder.js
@@ -203,3 +206,8 @@ sudoku-solver.ts
 #### DP on strings
 - Longest Common Subsequence - https://leetcode.com/problems/longest-common-subsequence/description/
 - Maximum Length of Repeated Subarray - https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/
+
+#### DP on grids
+- Unique Paths - https://leetcode.com/problems/unique-paths/description/
+- Unique Paths II - https://leetcode.com/problems/unique-paths-ii/description/
+- Minimum Path Sum - https://leetcode.com/problems/minimum-path-sum/description/
