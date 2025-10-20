@@ -35,6 +35,8 @@ minimum-absolute-difference-in-bst.ts
 count-complete-tree-nodes.ts
 sum-of-all-subset-xor-totals.js
 min-cost-climbing-stairs.ts
+assign-cookies.ts
+lemonade-change.ts
 
 /medium
 maximum-subarray.ts
@@ -70,6 +72,8 @@ maximum-length-of-repeated-subarray.ts
 unique-paths.ts
 unique-paths-ii.ts
 minimum-path-sum.ts
+longest-palindromic-substring.ts
+non-overlapping-intervals.ts
 
 /hard
 word-ladder.js
@@ -211,3 +215,10 @@ sudoku-solver.ts
 - Unique Paths - https://leetcode.com/problems/unique-paths/description/
 - Unique Paths II - https://leetcode.com/problems/unique-paths-ii/description/
 - Minimum Path Sum - https://leetcode.com/problems/minimum-path-sum/description/
+- Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/description/
+
+### Week 8
+#### Greedy basics
+- Assign Cookies - https://leetcode.com/problems/assign-cookies/description/
+- Lemonade Change - https://leetcode.com/problems/lemonade-change/description/
+- Non-overlapping Intervals - https://leetcode.com/problems/non-overlapping-intervals/description/
