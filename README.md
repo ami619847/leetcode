@@ -37,6 +37,8 @@ sum-of-all-subset-xor-totals.js
 min-cost-climbing-stairs.ts
 assign-cookies.ts
 lemonade-change.ts
+maximum-product-of-two-elements-in-an-array.ts
+kth-largest-element-in-a-stream.ts
 
 /medium
 maximum-subarray.ts
@@ -74,6 +76,10 @@ unique-paths-ii.ts
 minimum-path-sum.ts
 longest-palindromic-substring.ts
 non-overlapping-intervals.ts
+best-time-to-buy-and-sell-stock-ii.ts
+task-scheduler.ts
+meeting-rooms-ii.js
+maximum-number-of-eaten-apples.ts
 
 /hard
 word-ladder.js
@@ -222,3 +228,11 @@ sudoku-solver.ts
 - Assign Cookies - https://leetcode.com/problems/assign-cookies/description/
 - Lemonade Change - https://leetcode.com/problems/lemonade-change/description/
 - Non-overlapping Intervals - https://leetcode.com/problems/non-overlapping-intervals/description/
+
+#### Greedy + Priority Queue
+- maximum-product-of-two-elements-in-an-array - https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/
+- Kth Largest Element in a Stream - https://leetcode.com/problems/kth-largest-element-in-a-stream/description/
+- Best Time to Buy and Sell Stock II - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
+- Task Scheduler - https://leetcode.com/problems/task-scheduler/description/
+- Meeting Rooms II - https://neetcode.io/problems/meeting-schedule-ii?list=neetcode150
+- Maximum Number of Eaten Apples - https://leetcode.com/problems/maximum-number-of-eaten-apples/description/
