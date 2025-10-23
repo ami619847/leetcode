@@ -39,6 +39,7 @@ assign-cookies.ts
 lemonade-change.ts
 maximum-product-of-two-elements-in-an-array.ts
 kth-largest-element-in-a-stream.ts
+is-subsequence.ts
 
 /medium
 maximum-subarray.ts
@@ -80,6 +81,10 @@ best-time-to-buy-and-sell-stock-ii.ts
 task-scheduler.ts
 meeting-rooms-ii.js
 maximum-number-of-eaten-apples.ts
+wiggle-subsequence.ts
+jump-game.ts
+jump-game-ii.ts
+two-city-scheduling.ts
 
 /hard
 word-ladder.js
@@ -236,3 +241,10 @@ sudoku-solver.ts
 - Task Scheduler - https://leetcode.com/problems/task-scheduler/description/
 - Meeting Rooms II - https://neetcode.io/problems/meeting-schedule-ii?list=neetcode150
 - Maximum Number of Eaten Apples - https://leetcode.com/problems/maximum-number-of-eaten-apples/description/
+
+#### DP + Greedy review
+- Is Subsequence - https://leetcode.com/problems/is-subsequence/description
+- Wiggle Subsequence - https://leetcode.com/problems/wiggle-subsequence/description/
+- Jump Game - https://leetcode.com/problems/jump-game/description/
+- Jump Game II - https://leetcode.com/problems/jump-game-ii/description/
+- Two City Scheduling - https://leetcode.com/problems/two-city-scheduling/description/
