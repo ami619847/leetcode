@@ -40,6 +40,8 @@ lemonade-change.ts
 maximum-product-of-two-elements-in-an-array.ts
 kth-largest-element-in-a-stream.ts
 is-subsequence.ts
+pascals-triangle.ts
+n-th-tribonacci-number.ts
 
 /medium
 maximum-subarray.ts
@@ -85,6 +87,8 @@ wiggle-subsequence.ts
 jump-game.ts
 jump-game-ii.ts
 two-city-scheduling.ts
+longest-increasing-subsequence.ts
+maximum-product-subarray.ts
 
 /hard
 word-ladder.js
@@ -248,3 +252,10 @@ sudoku-solver.ts
 - Jump Game - https://leetcode.com/problems/jump-game/description/
 - Jump Game II - https://leetcode.com/problems/jump-game-ii/description/
 - Two City Scheduling - https://leetcode.com/problems/two-city-scheduling/description/
+
+### Week 9
+#### Problem-solving patterns
+- Pascals Triangle - https://leetcode.com/problems/pascals-triangle/description/
+- Nth Tribonacci Number - https://leetcode.com/problems/n-th-tribonacci-number/description/
+- Longest Increasing Subsequence - https://leetcode.com/problems/longest-increasing-subsequence/description/
+- Maximum Product Subarray - https://leetcode.com/problems/maximum-product-subarray/description/
