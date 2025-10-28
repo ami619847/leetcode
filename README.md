@@ -89,6 +89,9 @@ jump-game-ii.ts
 two-city-scheduling.ts
 longest-increasing-subsequence.ts
 maximum-product-subarray.ts
+lru-cache.ts
+memoize.ts
+number-of-dice-rolls-with-target-sum.ts
 
 /hard
 word-ladder.js
@@ -259,3 +262,8 @@ sudoku-solver.ts
 - Nth Tribonacci Number - https://leetcode.com/problems/n-th-tribonacci-number/description/
 - Longest Increasing Subsequence - https://leetcode.com/problems/longest-increasing-subsequence/description/
 - Maximum Product Subarray - https://leetcode.com/problems/maximum-product-subarray/description/
+
+#### Caching (LRU, memoization)
+- LRU Cache - https://leetcode.com/problems/lru-cache/description/
+- Memoize - https://leetcode.com/problems/memoize/description/
+- Number of Dice Rolls with Target Sum - https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/
