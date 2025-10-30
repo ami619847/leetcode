@@ -45,6 +45,7 @@ n-th-tribonacci-number.ts
 design-parking-system.ts
 design-hashset.ts
 design-hashmap.ts
+design-an-ordered-stream.ts
 
 /medium
 maximum-subarray.ts
@@ -277,5 +278,6 @@ sudoku-solver.ts
 - Design Parking System - https://leetcode.com/problems/design-parking-system/description/
 - Design Hashset - https://leetcode.com/problems/design-hashset/description/
 - Design Hashmap - https://leetcode.com/problems/design-hashmap/description/
+- Design an Ordered Stream - https://leetcode.com/problems/design-an-ordered-stream/description/
 - Time Based Key Value Store - https://leetcode.com/problems/time-based-key-value-store/description/
 - Design Twitter - https://leetcode.com/problems/design-twitter/description/
