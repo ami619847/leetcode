@@ -42,6 +42,9 @@ kth-largest-element-in-a-stream.ts
 is-subsequence.ts
 pascals-triangle.ts
 n-th-tribonacci-number.ts
+design-parking-system.ts
+design-hashset.ts
+design-hashmap.ts
 
 /medium
 maximum-subarray.ts
@@ -92,6 +95,8 @@ maximum-product-subarray.ts
 lru-cache.ts
 memoize.ts
 number-of-dice-rolls-with-target-sum.ts
+time-based-key-value-store.ts
+design-twitter.ts
 
 /hard
 word-ladder.js
@@ -267,3 +272,10 @@ sudoku-solver.ts
 - LRU Cache - https://leetcode.com/problems/lru-cache/description/
 - Memoize - https://leetcode.com/problems/memoize/description/
 - Number of Dice Rolls with Target Sum - https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description/
+
+#### REST vs GraphQL, API design
+- Design Parking System - https://leetcode.com/problems/design-parking-system/description/
+- Design Hashset - https://leetcode.com/problems/design-hashset/description/
+- Design Hashmap - https://leetcode.com/problems/design-hashmap/description/
+- Time Based Key Value Store - https://leetcode.com/problems/time-based-key-value-store/description/
+- Design Twitter - https://leetcode.com/problems/design-twitter/description/
