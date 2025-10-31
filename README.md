@@ -46,6 +46,8 @@ design-parking-system.ts
 design-hashset.ts
 design-hashmap.ts
 design-an-ordered-stream.ts
+first-unique-character-in-a-string.ts
+intersection-of-two-arrays-ii.ts
 
 /medium
 maximum-subarray.ts
@@ -99,6 +101,8 @@ number-of-dice-rolls-with-target-sum.ts
 time-based-key-value-store.ts
 design-twitter.ts
 kth-largest-element-in-an-array.ts
+insert-delete-getrandom-o1.ts
+top-k-frequent-elements.ts
 
 /hard
 word-ladder.js
@@ -285,3 +289,9 @@ sudoku-solver.ts
 
 #### Pagination, infinite scroll
 - Kth Largest Element in an Array - https://leetcode.com/problems/kth-largest-element-in-an-array/description/
+
+#### CDN & image optimization
+- First Unique Character in a String - https://leetcode.com/problems/first-unique-character-in-a-string/description/
+- Intersection of Two Arrays II - https://leetcode.com/problems/intersection-of-two-arrays-ii/description/
+- Insert Delete GetRandom O(1) - https://leetcode.com/problems/insert-delete-getrandom-o1/description
+- Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/description/
