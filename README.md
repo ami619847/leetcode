@@ -98,6 +98,7 @@ memoize.ts
 number-of-dice-rolls-with-target-sum.ts
 time-based-key-value-store.ts
 design-twitter.ts
+kth-largest-element-in-an-array.ts
 
 /hard
 word-ladder.js
@@ -281,3 +282,6 @@ sudoku-solver.ts
 - Design an Ordered Stream - https://leetcode.com/problems/design-an-ordered-stream/description/
 - Time Based Key Value Store - https://leetcode.com/problems/time-based-key-value-store/description/
 - Design Twitter - https://leetcode.com/problems/design-twitter/description/
+
+#### Pagination, infinite scroll
+- Kth Largest Element in an Array - https://leetcode.com/problems/kth-largest-element-in-an-array/description/
