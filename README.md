@@ -48,6 +48,9 @@ design-hashmap.ts
 design-an-ordered-stream.ts
 first-unique-character-in-a-string.ts
 intersection-of-two-arrays-ii.ts
+excel-sheet-column-title.ts
+excel-sheet-column-number.ts
+isomorphic-strings.ts
 
 /medium
 maximum-subarray.ts
@@ -103,6 +106,7 @@ design-twitter.ts
 kth-largest-element-in-an-array.ts
 insert-delete-getrandom-o1.ts
 top-k-frequent-elements.ts
+encode-and-decode-tinyurl.ts
 
 /hard
 word-ladder.js
@@ -295,3 +299,10 @@ sudoku-solver.ts
 - Intersection of Two Arrays II - https://leetcode.com/problems/intersection-of-two-arrays-ii/description/
 - Insert Delete GetRandom O(1) - https://leetcode.com/problems/insert-delete-getrandom-o1/description
 - Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/description/
+
+### Week 10
+#### System Design – URL Shortener
+- Excel Sheet Column Title - https://leetcode.com/problems/excel-sheet-column-title/description/
+- Excel Sheet Column Number - https://leetcode.com/problems/excel-sheet-column-number/description/
+- Isomorphic Strings - https://leetcode.com/problems/isomorphic-strings/description/
+- Encode and Decode TinyURL - https://leetcode.com/problems/encode-and-decode-tinyurl/description/
