@@ -51,6 +51,7 @@ intersection-of-two-arrays-ii.ts
 excel-sheet-column-title.ts
 excel-sheet-column-number.ts
 isomorphic-strings.ts
+longest-common-prefix.ts
 
 /medium
 maximum-subarray.ts
@@ -107,6 +108,8 @@ kth-largest-element-in-an-array.ts
 insert-delete-getrandom-o1.ts
 top-k-frequent-elements.ts
 encode-and-decode-tinyurl.ts
+design-add-and-search-words-data-structure.ts
+implement-trie-prefix-tree.ts
 
 /hard
 word-ladder.js
@@ -306,3 +309,8 @@ sudoku-solver.ts
 - Excel Sheet Column Number - https://leetcode.com/problems/excel-sheet-column-number/description/
 - Isomorphic Strings - https://leetcode.com/problems/isomorphic-strings/description/
 - Encode and Decode TinyURL - https://leetcode.com/problems/encode-and-decode-tinyurl/description/
+
+#### System Design – Search / Autocomplete
+- Longest Common Prefix - https://leetcode.com/problems/longest-common-prefix/description/
+- Design Add and Search Words Data Structure - https://leetcode.com/problems/design-add-and-search-words-data-structure/description/
+- Implement Trie Prefix Tree - https://leetcode.com/problems/implement-trie-prefix-tree/description/
