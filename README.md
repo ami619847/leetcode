@@ -52,6 +52,8 @@ excel-sheet-column-title.ts
 excel-sheet-column-number.ts
 isomorphic-strings.ts
 longest-common-prefix.ts
+implement-stack-using-queues.ts
+majority-element.ts
 
 /medium
 maximum-subarray.ts
@@ -110,10 +112,13 @@ top-k-frequent-elements.ts
 encode-and-decode-tinyurl.ts
 design-add-and-search-words-data-structure.ts
 implement-trie-prefix-tree.ts
+my-calendar-i.ts
+my-calendar-ii.ts
 
 /hard
 word-ladder.js
 sudoku-solver.ts
+my-calendar-iii.ts
 
 ## 🛠️ How to Run
 1. Clone the repository  
@@ -314,3 +319,10 @@ sudoku-solver.ts
 - Longest Common Prefix - https://leetcode.com/problems/longest-common-prefix/description/
 - Design Add and Search Words Data Structure - https://leetcode.com/problems/design-add-and-search-words-data-structure/description/
 - Implement Trie Prefix Tree - https://leetcode.com/problems/implement-trie-prefix-tree/description/
+
+#### High-traffic booking flow
+- Implement Stack Using Queues - https://leetcode.com/problems/implement-stack-using-queues/description/
+- Majority- Element - https://leetcode.com/problems/majority-element/description/
+- My Calendar I - https://leetcode.com/problems/my-calendar-i/description/
+- My Calendar II - https://leetcode.com/problems/my-calendar-ii/description/
+- My Calendar III - https://leetcode.com/problems/my-calendar-iii/description/
