@@ -54,6 +54,7 @@ isomorphic-strings.ts
 longest-common-prefix.ts
 implement-stack-using-queues.ts
 majority-element.ts
+roman-to-integer.ts
 
 /medium
 maximum-subarray.ts
@@ -326,3 +327,7 @@ my-calendar-iii.ts
 - My Calendar I - https://leetcode.com/problems/my-calendar-i/description/
 - My Calendar II - https://leetcode.com/problems/my-calendar-ii/description/
 - My Calendar III - https://leetcode.com/problems/my-calendar-iii/description/
+
+### Week 11
+#### Top 150: Array/ String
+- Roman to Integer - https://leetcode.com/problems/roman-to-integer/description/
