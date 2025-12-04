@@ -55,6 +55,7 @@ longest-common-prefix.ts
 implement-stack-using-queues.ts
 majority-element.ts
 roman-to-integer.ts
+length-of-last-word.ts
 
 /medium
 maximum-subarray.ts
@@ -115,6 +116,7 @@ design-add-and-search-words-data-structure.ts
 implement-trie-prefix-tree.ts
 my-calendar-i.ts
 my-calendar-ii.ts
+integer-to-roman.ts
 
 /hard
 word-ladder.js
@@ -331,3 +333,7 @@ my-calendar-iii.ts
 ### Week 11
 #### Top 150: Array/ String
 - Roman to Integer - https://leetcode.com/problems/roman-to-integer/description/
+
+### Week 12
+- Integer to Roman - https://leetcode.com/problems/integer-to-roman/description/
+- Length of Last Word - https://leetcode.com/problems/length-of-last-word/description/
