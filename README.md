@@ -117,6 +117,7 @@ implement-trie-prefix-tree.ts
 my-calendar-i.ts
 my-calendar-ii.ts
 integer-to-roman.ts
+3sum.ts
 
 /hard
 word-ladder.js
@@ -337,3 +338,6 @@ my-calendar-iii.ts
 ### Week 12
 - Integer to Roman - https://leetcode.com/problems/integer-to-roman/description/
 - Length of Last Word - https://leetcode.com/problems/length-of-last-word/description/
+
+### Week 13
+- 3 Sum - https://leetcode.com/problems/3sum/description
