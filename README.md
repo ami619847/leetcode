@@ -341,3 +341,12 @@ my-calendar-iii.ts
 
 ### Week 13
 - 3 Sum - https://leetcode.com/problems/3sum/description
+
+### Week 14
+#### Easy: Arrays
+- https://leetcode.com/problems/remove-duplicates-from-sorted-array
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+- https://leetcode.com/problems/rotate-array/
+- https://leetcode.com/problems/contains-duplicate
+- https://leetcode.com/problems/contains-duplicate-ii/
