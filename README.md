@@ -344,9 +344,18 @@ my-calendar-iii.ts
 
 ### Week 14
 #### Easy: Arrays
+##### p1
 - https://leetcode.com/problems/remove-duplicates-from-sorted-array
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 - https://leetcode.com/problems/rotate-array/
 - https://leetcode.com/problems/contains-duplicate
 - https://leetcode.com/problems/contains-duplicate-ii/
+##### p2
+- https://leetcode.com/problems/single-number/
+- https://leetcode.com/problems/intersection-of-two-arrays/
+- https://leetcode.com/problems/intersection-of-two-arrays-ii/
+- https://leetcode.com/problems/plus-one
+- https://leetcode.com/problems/move-zeroes/
+- https://leetcode.com/problems/two-sum/
+- https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/

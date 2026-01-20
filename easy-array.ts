@@ -130,3 +130,135 @@ function containsNearbyDuplicate(nums: number[], k: number): boolean {
     
     return false;
 };
+
+//Single Number
+//Time Complexity: O(n), space Complexity: O(1)
+function singleNumber(nums: number[]): number {
+    //time and space constrains, cannot use arryas, sets, etc.
+    let res = 0;
+
+    for (let n of nums) {
+        res = res ^ n;
+    }
+
+    return res;
+};
+
+// Intersection of Two Arrays
+//Time Complexity: O(n + m), space Complexity: O(min(n, m))
+function intersection(nums1: number[], nums2: number[]): number[] {
+    let set1 = new Set(nums1);
+    let set2 = new Set(nums2);
+    let res = [];
+
+    for (let n of set1) {
+        if (set2.has(n)) {
+            res.push(n);
+        }
+    }
+
+    return res;
+};
+
+//Intersection of Two Arrays II
+//Time Complexity: O(n + m), space Complexity: O(min(n, m))
+function intersect(nums1: number[], nums2: number[]): number[] {
+    let res = [];
+    //solution 1
+    let count = new Map();
+
+    for (let n of nums1) {
+        //count frequencies using hashmap
+        count.set(n, (count.get(n) || 0) + 1);
+    }
+
+    for (let n of nums2) {
+        //if num exists in the map, add to res and decrement the count
+        if (count.get(n) > 0) {
+            res.push(n);
+            count.set(n, count.get(n) - 1);
+        }
+    }
+
+    //solution 2
+    // nums1.sort((a, b) => a - b);
+    // nums2.sort((a, b) => a - b);
+
+    // //two pointers
+    // let i = 0, j = 0;
+    // while (i < nums1.length && j < nums2.length) {
+    //     if (nums1[i] === nums2[j]) {
+    //         res.push(nums1[i]);
+    //         i++;
+    //         j++;
+    //     } else if (nums1[i] < nums2[j]) {
+    //         i++;
+    //     } else {
+    //         j++;
+    //     }
+    // }
+
+    return res;
+};
+
+//Plus One
+//time Complexity: O(n), space Complexity: O(1)
+function plusOne(digits: number[]): number[] {
+    for (let i: number = digits.length - 1; i >= 0; i--) {
+        if (digits[i] + 1 < 10) {
+            digits[i]++; 
+            return digits;
+        } 
+
+        //if digit is 9, the last digit becomes 0
+        digits[i] = 0;
+
+        //if all the digits are 9, e.g. 999 + 1 = 1000  
+        if (i === 0) {
+            digits.unshift(1);
+            return digits;
+        }
+    }
+
+    return digits;
+};
+
+//Move Zeroes
+//time Complexity: O(n), space Complexity: O(1)
+/**
+ Do not return anything, modify nums in-place instead.
+ */
+function moveZeroes(nums: number[]): void {
+    //two pointers apporach
+    let left: number = 0;
+    
+    for (let right: number = 0; right < nums.length; right++) {
+        //when the right pointer is not zero, swap the values at left and right pointers,
+        //so zeroes are moved to the end/right side of the array
+        if (nums[right] !== 0) {
+            [nums[right], nums[left]] = [nums[left], nums[right]];
+            left++;
+        }
+    }
+};
+
+//Two Sum
+//time Complexity: O(n), space Complexity: O(n)
+function twoSumNew(nums: number[], target: number): number[] {
+    //hash map
+    let pair = new Map<number, number>();
+
+    for (let i: number = 0; i < nums.length; i++) {
+        //current number
+        let num = nums[i];
+        if (pair.has(target - num)) {
+            return [i, pair.get(target - num)!];
+        }
+        pair.set(num, i);
+    }
+
+    return [];
+};
+
+
+
