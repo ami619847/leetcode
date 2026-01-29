@@ -259,6 +259,3 @@ function twoSumNew(nums: number[], target: number): number[] {
 
     return [];
 };
-
-
-

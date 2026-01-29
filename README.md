@@ -359,3 +359,10 @@ my-calendar-iii.ts
 - https://leetcode.com/problems/move-zeroes/
 - https://leetcode.com/problems/two-sum/
 - https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+
+#### Easy: Strings
+##### p1
+- https://leetcode.com/problems/reverse-string/
+- https://leetcode.com/problems/reverse-integer/
+- https://leetcode.com/problems/reverse-bits/
+- https://leetcode.com/problems/first-unique-character-in-a-string/
