@@ -366,3 +366,10 @@ my-calendar-iii.ts
 - https://leetcode.com/problems/reverse-integer/
 - https://leetcode.com/problems/reverse-bits/
 - https://leetcode.com/problems/first-unique-character-in-a-string/
+##### p2
+- https://leetcode.com/problems/valid-anagram/description/
+- https://leetcode.com/problems/valid-palindrome/
+- https://leetcode.com/problems/string-to-integer-atoi/
+- https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+- https://leetcode.com/problems/longest-common-prefix/
+- https://leetcode.com/problems/length-of-last-word/
